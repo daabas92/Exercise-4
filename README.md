@@ -11,7 +11,7 @@ Its a tool that debuggs the program.
 ## What is an IDE (Integrated Development Environment)?
 
 ## What does it mean to be a programmer?
-
+To be a programmer means to test code and see that everything works as it should.
 ## Is C a high level programming language? Why?
 No, C is low level language.
 ## What is voltage? What is the unit of voltage?
