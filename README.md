@@ -7,7 +7,7 @@ Programming language is machine language,high level language.
 ## What is a compiler?
 programming language that translating from high-level language into machine code. 
 ## What is a debugger?
-
+Its a tool that debuggs the program.
 ## What is an IDE (Integrated Development Environment)?
 
 ## What does it mean to be a programmer?
