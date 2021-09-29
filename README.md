@@ -3,9 +3,9 @@
 Answer each question here under the question.
 
 ## What is a programming language?
-
+Programming language is machine language,high level language.
 ## What is a compiler?
-
+programming language that translating from high-level language into machine code. 
 ## What is a debugger?
 
 ## What is an IDE (Integrated Development Environment)?
