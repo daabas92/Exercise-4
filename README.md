@@ -13,7 +13,7 @@ Its a tool that debuggs the program.
 ## What does it mean to be a programmer?
 
 ## Is C a high level programming language? Why?
-
+No, C is low level language.
 ## What is voltage? What is the unit of voltage?
 
 ## What is current? What is the unit of current?
