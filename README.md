@@ -21,7 +21,7 @@ No, C is low level language.
 ## What is resistance? What is the unit of resistance?
 
 ## What is the most manufactured device in history?
-
+The most manufactured device is the MOSFET transistor.
 ## What is an integer number?
 
 ## What is a real number?
